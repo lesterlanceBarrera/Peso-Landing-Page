@@ -1,0 +1,39 @@
+/* ELEMENTS */
+body {
+    background-color: #B3E8E5;
+}
+/* CLASSES */
+.navbar {
+    padding: 3% 10%;
+}
+
+.nav-item {
+    margin: 3%;
+    font-size: 1.1rem;
+}
+
+
+/* ID */
+
+#content {
+    padding: 10% 15%;
+    text-align: center;
+    
+}
+
+.bio {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.7rem;
+}
+
+.contentInner {
+font-family: 'Seymour One', sans-serif;
+}
+
+.getStarted {
+    text-align: center;
+    padding: 2% 25%;
+}
+
+
+
